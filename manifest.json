@@ -2,7 +2,8 @@
   "name": "Uniform Invoice Maker",
   "short_name": "Invoice App",
   "description": "Create and print invoices for school uniform orders",
-  "start_url": "./invoice-app.html",
+  "start_url": "./",
+  "scope": "./"
   "display": "standalone",
   "background_color": "#e9e4d8",
   "theme_color": "#2f6b4f",
